@@ -1,10 +1,4 @@
-# ITBA - 72.11 - Sistemas Operativos - TP02
-## chaOS 2.0
-### Grupo 07
-
-El repositorio es una extensión del sistema operativo Pure64, aplicando los conocimientos y conceptos aprendidos durante las clases teóricas y prácticas en la materia. Además, permite ejecutar programas que se detallarán más adelante.
-<br /> El desarrollo es una continuación del sistema implementado el cuatrimestre anterior, en la materia 72.08 - Arquitectura de computadoras. Si desea consultarlo, el proyecto se encuentra disponible en el siguiente enlace: https://github.com/JoseMenta/TPE.
-
+# chaOS 2.0
 
 ## Instrucciones
 
@@ -232,13 +226,6 @@ Es una extensión del problema _The Dining Philosophers_, ya que permite aumenta
 
 
 ## Soporte
-
-En caso de necesitar información adicional o querer conocer detalles de la implementación, se sugiere acceder al repositorio de GitHub público del proyecto. Alternativamente, puede contactarse con cualquiera de los desarrolladores.
-
-### Link al repositorio público
-https://github.com/JoseMenta/TP2_SO
-
-### Contacto de desarrolladores:
 
 * Axel Facundo Preiti Tasat: https://github.com/AxelPreitiT
 * Gastón Ariel Francois: https://github.com/francoisgaston
